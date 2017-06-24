@@ -1,0 +1,22 @@
+{
+  "name": "dashboard",
+  "version": "1.0.0",
+  "description": "Demo version of DashBoard",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0Steve0/DashBoard.git"
+  },
+  "author": "Steve Shao <l7shao@uwaterloo.ca>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0Steve0/DashBoard/issues"
+  },
+  "homepage": "https://github.com/0Steve0/DashBoard#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
